@@ -1,3 +1,2 @@
 Test Git.
 Test Git2.
-Test Git3.
